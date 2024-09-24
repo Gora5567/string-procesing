@@ -1,3 +1,4 @@
+# string-procesing
 # @author Yehor Marik This is a homework for the task about string processing
 # 1) Create variables, place the values in them - first name,last name and age.
 # Display the following sentence: "Hi! My name is first name last name, I'm age years old."
