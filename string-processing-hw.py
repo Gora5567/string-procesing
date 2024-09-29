@@ -9,7 +9,6 @@ print(f"Hi! My name is {name} {surname}, I am {age} years old.")
 
 helper.end_task(1)
 
-
 helper.start_task(2)
 
 print("Baa, baa, black sheep,\n\n"
