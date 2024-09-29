@@ -11,17 +11,19 @@ helper.end_task(1)
 
 helper.start_task(2)
 
-print("Baa, baa, black sheep,\n\n"
-      "Have you any wool?\n\n"
-      "Yes sir, yes sir,\n\n"
-      "Three bags full\n\n\n"
-      "One for the master,\n\n"
-      "One for the dame,\n\n"
-      "And one for the little boy\n\n"
-      "Who lives down the lane\n\n\n"
-      "Baa, baa, black sheep,\n\n"
-      "Have you any wool?\n\n"
-      "Yes sir, yes sir,\n\n"
+new_line = "\n\n"
+
+print(f"Baa, baa, black sheep,{new_line}"
+      f"Have you any wool?{new_line}"
+      f"Yes sir, yes sir,{new_line}"
+      f"Three bags full{new_line}\n"
+      f"One for the master,{new_line}"
+      f"One for the dame,{new_line}"
+      f"And one for the little boy{new_line}"
+      f"Who lives down the lane{new_line}\n"
+      f"Baa, baa, black sheep,{new_line}"
+      f"Have you any wool?{new_line}"
+      f"Yes sir, yes sir,{new_line}"
       "Three bags full")
 
 helper.end_task(2)
